@@ -101,6 +101,6 @@ def take_quiz(quiz):
 
     print(f"Quiz completed! Your score: {score}/{total_questions}")
 
-quiz = generate_quiz('mis2.docx')
+quiz = generate_quiz('yourworddocument.docx')
 take_quiz(quiz)
 
