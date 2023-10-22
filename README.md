@@ -46,4 +46,4 @@ This Python script allows you to generate and take quizzes from a Microsoft Word
    python3 quiz_generator.py yourquizdocument.docx
    ```
    
-5. Follow the on-screen instructions to take the quiz.
+5. Once you run the command the quiz gets started. 
